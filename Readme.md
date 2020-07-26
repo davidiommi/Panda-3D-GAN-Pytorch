@@ -46,9 +46,8 @@ This is the Torch version of the first repository of PANDA (https://github.com/L
 
 *******************************************************************************
 ### Pre-trained-model
-The weights are available and you can download them from the following links:
-- generator: https://drive.google.com/file/d/1_pj3wdPF1F5GwaKVGbBQbpFNTko_IA5L/view?usp=sharing
-- discriminator: https://drive.google.com/file/d/1Oi3J8N8xtqMgSA3FSXnqpHFFKLNUM-U7/view?usp=sharing
+The weights for generator and discriminator are available and you can download them from the following link:
+- https://drive.google.com/drive/folders/11cNxT9rx6ztX8jA-dppeengsiW7DWzbY?usp=sharing
 *******************************************************************************
 
 # Tutorial for 3DGAN
